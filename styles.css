@@ -13,8 +13,7 @@ body {
     
 }
 
-header {
-    background-color: #4f0b14; 
+header { 
     color: hwb(0 13% 16%); 
     text-align: center;
     padding: 30px 0;
