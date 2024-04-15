@@ -94,6 +94,26 @@ main {
     padding: 3cqh;
 }
 
+#music-releases {
+  background-image: url('pngwing.com.png'); 
+  background-size: cover; 
+  background-position: center; 
+  padding: 50px; 
+}
+
+
+.release {
+  background-color: rgba(255, 255, 255, 0.7); 
+  padding: 20px; 
+  margin-bottom: 20px; 
+  border-radius: 10px; 
+}
+
+
+.release h3 {
+  font-variant: small-caps; 
+  margin: 0; 
+}
 section {
     background-color: #ffffff;
     margin-bottom: 20px;
