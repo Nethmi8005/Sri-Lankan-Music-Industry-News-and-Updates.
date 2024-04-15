@@ -1,4 +1,4 @@
-<h3>main</h3>
+<h3>Sri-Lankan-Music-Industry-News-and-Updates.</h3>
 <h2>LANKA BEAT</h2>
 <img src='music-1428660_1920.jpg'width="300px">
 <p>Lanka Beat is ultimate source for the latest news, updates, and insights from the vibrant Sri Lankan music industry.<br> With a passion for music and a dedication to promoting local talent.</p>
