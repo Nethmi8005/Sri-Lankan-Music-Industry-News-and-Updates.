@@ -1,0 +1,197 @@
+css
+* {
+    margin: 0;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+body {
+    font-variant:small-caps;
+    background-color: #ffffff;
+    margin: 20px;
+    background-image: url('background-7283780_1920.jpg'); 
+    
+}
+
+header {
+    background-color: #4f0b14; 
+    color: hwb(0 13% 16%); 
+    text-align: center;
+    padding: 30px 0;
+    border-bottom: none; 
+    background-image: url('music-1428660_1920.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    text-shadow: 5px 5px #000000;
+}
+
+h1 {
+    font-variant:small-caps; 
+    font-size: 60px; 
+    margin: -1px;
+    text-shadow: 6px 6px #462b2b;
+    
+}
+
+#Home {
+    padding: 30px;
+    background-color: #ffffff;
+  }
+  
+  #Home h2 {
+    font-variant: small-caps;
+    color: #000000; 
+    margin-bottom: 20px;
+  }
+  
+  .news {
+    margin-top: 20px;
+  }
+  
+  .news h3 {
+    font-variant: small-caps;
+    color: #000754; 
+    margin-bottom: 10px;
+  }
+  
+  .news p {
+    font-variant: small-caps;
+    color: #000000; 
+    line-height: 1.5;
+  }
+  
+  .news b {
+    color: #05253e; 
+  }
+  
+
+
+
+nav ul {
+    list-style-type:none;
+    background-color:#000000;
+    overflow:hidden;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display:block;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+    text-decoration:none;
+    
+}
+
+nav ul li a:hover {
+    background-color: #55555500;
+}
+
+main {
+    padding: 3cqh;
+}
+
+section {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0);
+}
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-content p {
+    margin-bottom: 10px;
+}
+
+.artist {
+    margin-bottom: 40px;
+    
+    .rounded-cropped-image {
+        border-radius: 50%; 
+        overflow: hidden; 
+        width: 200px; 
+        height: 200px; 
+    }
+    
+}
+
+  
+  .social-media {
+    display:contents;
+    align-items: center; 
+  }
+  
+  .social-media a {
+    margin-left: 15px; 
+  }
+  
+  .social-media img {
+    width: 30px; 
+    height: auto;
+  }
+  
+.artist h3 {
+    color: #000754;
+    margin-bottom: 10px;  
+}
+
+.release {
+    margin-bottom: 5px;
+}
+
+.release h3 {
+    color: #000754;
+    margin-bottom: 10px;
+}
+
+#comment-form {
+  margin-bottom: 1rem;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  resize: none;
+  margin-bottom: 0.5rem;
+}
+
+button {
+  background-color:#000000;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border: calc(no-repeat);
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #000754;
+}
+
+#comment-list {
+  list-style-type: none;
+  padding: 5;
+}
+
+.comment {
+  background-color: hwb(0 13% 16%);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
